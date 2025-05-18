@@ -1,0 +1,4 @@
+safe exxi is a batch file that lets you run any dangerous batch file but a safe version of it
+this app is super usful for batch developers becouse they can run their projects in safe exii 
+and not destroy their computers
+and i am a batch developer and i use safe exii every time i execute a batch file.
