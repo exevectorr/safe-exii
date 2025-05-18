@@ -1,0 +1,15 @@
+© 2025 [exevectorr]. All rights reserved.
+
+This software and its associated materials (the "Software") are the exclusive property of
+[exevectorr] and are protected by copyright, trademark, and other intellectual property laws.
+Permission is hereby granted to use the Software solely for personal or internal purposes.  
+You are expressly prohibited from copying, modifying, distributing, sublicensing, selling,
+renting, leasing, or otherwise exploiting the Software or any portion thereof, in whole or in part,
+without the prior written consent of [exevectorr].
+Any unauthorized use, reproduction, or distribution of the Software may result in civil and/or criminal penalties to the fullest extent permitted by law.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  
+IN NO EVENT SHALL [Your Name or Company Name] BE LIABLE FOR ANY CLAIM, DAMAGES
+, OR OTHER LIABILITY ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
+
+For inquiries regarding licensing or permissions, please contact: [Rasmus.w.hansson@gmail.com].
