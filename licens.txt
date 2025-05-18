@@ -1,0 +1,2 @@
+## License
+This project is not open-source. You are allowed to use it, but not edit, share, or republish any part of the code.
