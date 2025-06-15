@@ -1,3 +1,10 @@
+:: you are nor allowed to deal with in the code of safe exii or any other scripts made by exevectorr
+:: unless one of the devs or exevectorr him self said to do so!!!
+
+:: this is safe exii made by exevectorr
+:: more info at: https://github.com/exevectorr/safe-exii/blob/main/README.md
+
+
 @echo off
 title safe exii - by exevectorr
 
